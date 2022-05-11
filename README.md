@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-128-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-168-blue)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-7%20Million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
@@ -65,17 +65,17 @@ Here are some ideas to get you started:
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      23 hrs 35 mins      ████████████████████░░░░░   81.56% 
-Markdown                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
-Other                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+PHP                      27 hrs 8 mins       ████████████████████░░░░░   80.12% 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+HTML                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Other                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 编辑器: 
-VS Code                  28 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  33 hrs 52 mins      █████████████████████████   100.0%
 
 💻 操作系统: 
-Windows                  28 hrs 55 mins      █████████████████████████   100.0%
+Windows                  33 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +94,5 @@ JavaScript               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-05-11 05:22:42 UTC
+ Last Updated on 2022-05-11 20:17:50 UTC
 <!--END_SECTION:waka-->
