@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora) -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&theme=algolia)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
