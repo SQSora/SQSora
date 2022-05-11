@@ -1,4 +1,4 @@
-name: wakatime Readme
+name: Update README
 
 on:
   workflow_dispatch:
