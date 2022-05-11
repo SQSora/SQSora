@@ -1,9 +1,9 @@
-name: Waka Readme
+name: wakatime Readme
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # UTC
     - cron: "* * * * *"
 
 jobs:
