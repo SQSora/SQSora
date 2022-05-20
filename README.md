@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&theme=algolia)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-7%20Million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
@@ -92,5 +92,5 @@ PHP                      2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-05-19 20:17:35 UTC
+ Last Updated on 2022-05-20 01:46:01 UTC
 <!--END_SECTION:waka-->
