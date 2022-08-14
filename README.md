@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&include_all_commits=true&bg_color=90,FF6699,DDA0DD,66FFFF&locale=cn&icon_color=00FFFF&title_color=54FF9F&text_color=00FFFF&card_width=14)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      19 hrs 9 mins       ███████████████████████░░   92.29% 
+PHP                      19 hrs 8 mins       ███████████████████████░░   92.28% 
 Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
 HTML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
 Batchfile                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
@@ -94,5 +94,5 @@ PHP                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-08-13 20:17:41 UTC
+ Last Updated on 2022-08-14 20:16:28 UTC
 <!--END_SECTION:waka-->
