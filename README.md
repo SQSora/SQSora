@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&include_all_commits=true&bg_color=90,FF6699,DDA0DD,66FFFF&locale=cn&icon_color=00FFFF&title_color=54FF9F&text_color=00FFFF&card_width=14)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      24 hrs 30 mins      ████████████████████████░   97.98% 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
+PHP                      24 hrs 31 mins      ████████████████████████░   97.98% 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
 Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
@@ -94,5 +94,5 @@ PHP                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-09-16 20:18:35 UTC
+ Last Updated on 2022-09-17 20:19:01 UTC
 <!--END_SECTION:waka-->
