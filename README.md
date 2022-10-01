@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&include_all_commits=true&bg_color=90,FF6699,DDA0DD,66FFFF&locale=cn&icon_color=00FFFF&title_color=54FF9F&text_color=00FFFF&card_width=14)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -65,17 +65,17 @@ Here are some ideas to get you started:
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      21 hrs 58 mins      ███████████████████████░░   94.05% 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+PHP                      21 hrs 45 mins      ███████████████████████░░   94.0% 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
 Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 🔥 编辑器: 
-VS Code                  23 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 8 mins       █████████████████████████   100.0%
 
 💻 操作系统: 
-Windows                  23 hrs 21 mins      █████████████████████████   100.0%
+Windows                  23 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +94,5 @@ PHP                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-09-30 20:19:58 UTC
+ Last Updated on 2022-10-01 20:18:23 UTC
 <!--END_SECTION:waka-->
