@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SQSora&show_icons=true&include_all_commits=true&bg_color=90,FF6699,DDA0DD,66FFFF&locale=cn&icon_color=00FFFF&title_color=54FF9F&text_color=00FFFF&card_width=14)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
@@ -65,17 +65,17 @@ Here are some ideas to get you started:
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      14 hrs 58 mins      ███████████████████░░░░░░   77.63% 
-HTML                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
-SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
+PHP                      14 hrs 22 mins      ██████████████████░░░░░░░   72.96% 
+Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+HTML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
 
 🔥 编辑器: 
-VS Code                  19 hrs 17 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 41 mins      █████████████████████████   100.0%
 
 💻 操作系统: 
-Windows                  19 hrs 17 mins      █████████████████████████   100.0%
+Windows                  19 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +94,5 @@ PHP                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SQSora/SQSora/main/charts/bar_graph.png) 
 
 
- Last Updated on 2022-10-18 20:22:06 UTC
+ Last Updated on 2022-10-19 20:20:41 UTC
 <!--END_SECTION:waka-->
